@@ -15,34 +15,40 @@ import SIDE1 from '../../assets/AppleGif.gif'
 import SIDE2 from '../../assets/CoffeeCup.jpg'
 import SIDE3 from '../../assets/ChestPress.gif'
 import SIDE4 from '../../assets/Where_we_met.jpg'
-import SIDE5 from '../../assets/Champions.gif'
+import SIDE5 from '../../assets/GearUp.gif'
+import SIDE6 from '../../assets/Champions.gif'
 
 
 
 const data = [
   {
     project: SIDE1,
-    name: 'Lorem, ipsum.',
+    name: 'Apple Logo',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore veniam voluptas sunt modi facere obcaecati odio iste beatae expedita reiciendis deserunt ut, quisquam explicabo? Autem sequi a officiis harum illo.'
   },
   {
     project: SIDE2,
-    name: 'Lorem, ipsum.',
+    name: 'Coffee Cup',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore veniam voluptas sunt modi facere obcaecati odio iste beatae expedita reiciendis deserunt ut, quisquam explicabo? Autem sequi a officiis harum illo.'
   },
   {
     project: SIDE3,
-    name: 'Lorem, ipsum.',
+    name: 'Chest Press',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore veniam voluptas sunt modi facere obcaecati odio iste beatae expedita reiciendis deserunt ut, quisquam explicabo? Autem sequi a officiis harum illo.'
   },
   {
     project: SIDE4,
-    name: 'Lorem, ipsum.',
+    name: 'Where We Met',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore veniam voluptas sunt modi facere obcaecati odio iste beatae expedita reiciendis deserunt ut, quisquam explicabo? Autem sequi a officiis harum illo.'
   },
   {
     project: SIDE5,
-    name: 'Lorem, ipsum.',
+    name: 'Gear Up',
+    review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore veniam voluptas sunt modi facere obcaecati odio iste beatae expedita reiciendis deserunt ut, quisquam explicabo? Autem sequi a officiis harum illo.'
+  },
+  {
+    project: SIDE6,
+    name: 'Gear for Champions',
     review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore veniam voluptas sunt modi facere obcaecati odio iste beatae expedita reiciendis deserunt ut, quisquam explicabo? Autem sequi a officiis harum illo.'
   },
 ]
