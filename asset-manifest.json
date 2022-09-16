@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9a85e8a9.css",
+    "main.js": "/react-portfolio/static/js/main.13c7927e.js",
+    "static/media/BadBankImg.jpg": "/react-portfolio/static/media/BadBankImg.f9d552dc9cbe671f6b68.jpg",
+    "static/media/PacMenImg.jpg": "/react-portfolio/static/media/PacMenImg.b8f5118f3b75b6b7bb2d.jpg",
+    "static/media/ToDoImg.jpg": "/react-portfolio/static/media/ToDoImg.8f2451294842c1872d4c.jpg",
+    "static/media/BusTrackImg.jpg": "/react-portfolio/static/media/BusTrackImg.4274da18e21ce3a92c9c.jpg",
+    "static/media/GitHProfSquare.jpeg": "/react-portfolio/static/media/GitHProfSquare.aa969f9a7294794eab36.jpeg",
+    "static/media/HeaderPic_nobg.png": "/react-portfolio/static/media/HeaderPic_nobg.2d7d2acfe3862e3992f0.png",
+    "static/media/MovingEyesImg.jpg": "/react-portfolio/static/media/MovingEyesImg.4887bd52520090c89bd5.jpg",
+    "static/media/portfolio6.jpg": "/react-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/Bhavika_Patel_Resume_2022.pdf": "/react-portfolio/static/media/Bhavika_Patel_Resume_2022.7517cc41b143b3230112.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.9a85e8a9.css.map": "/react-portfolio/static/css/main.9a85e8a9.css.map",
+    "main.13c7927e.js.map": "/react-portfolio/static/js/main.13c7927e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a85e8a9.css",
+    "static/js/main.13c7927e.js"
+  ]
+}
