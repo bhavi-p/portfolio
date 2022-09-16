@@ -14,7 +14,6 @@ const data = [
     title: 'BadBank Portal',
     github: 'https://github.com/bhavi-p/BadBank',
     demo: 'https://bhavi-p.github.io/BadBank/#/',
-    figma: 'https://figma.com',
   },
   {
     id: 2,
@@ -26,7 +25,8 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'ToDo List (Angular)',
+    title: `ToDo List`,
+    tbd: true,
     github: 'https://github.com',
     demo: 'https://google.com',
   },
@@ -47,7 +47,8 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Food Ordering App',
+    title: 'Food Ordering',
+    tbd: true,
     github: 'https://github.com',
     demo: 'https://google.com',
   }
@@ -58,10 +59,11 @@ const Portfolio = () => {
     <section id="portfolio">
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
+      <h4>Find out more about each project on GitHub or try a Live Demo!</h4>
 
       <div className="container portfolio__container">
         {
-          data.map(({ id, image, title, github, demo }) => {
+          data.map(({ id, image, title, tbd, github, demo }) => {
             return (
               <article key={id} className="portfolio__item">
                 <div className="portfolio__item_image">
@@ -69,10 +71,13 @@ const Portfolio = () => {
                 </div>
 
                 <h3>{title}</h3>
-                <div className="portfolio__item-cta">
-                  <a href={github} className="btn" target='_blank'>GitHub</a>
-                  <a href={demo} className="btn btn-primary" target='_blank'>Live Demo</a>
-                </div>
+                {tbd ? <h5>(Coming Soon)</h5> : ``}
+                {tbd ? '' : 
+                  <div className="portfolio__item-cta">
+                    <a href={github} className="btn" target='_blank'>GitHub</a>
+                    <a href={demo} className="btn btn-primary" target='_blank'>Live Demo</a>
+                  </div>
+                }
               </article>
             )
           })

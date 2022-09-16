@@ -62,6 +62,14 @@ h1 {
     font-size: 3rem;
 }
 
+h2 {
+    font-size: 2rem;
+}
+
+h5 {
+    font-size: 1.2rem;
+}
+
 section {
     margin-top: 8rem;
 }
@@ -74,6 +82,12 @@ section > h2, section > h5 {
 section > h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
+}
+
+section > h4 {
+    color: var(--color-white);
+    text-align: center;
+    margin-bottom: 1.5rem;
 }
 
 .text-light {
