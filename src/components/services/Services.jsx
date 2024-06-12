@@ -17,6 +17,10 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
+              <p>Figma</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
               <p>HTML5</p>
             </li>
             <li>
