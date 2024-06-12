@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bb8f5a22.css",
-    "main.js": "/portfolio/static/js/main.311a37a5.js",
-    "static/media/GearUp.gif": "/portfolio/static/media/GearUp.8a7fc4dcb2e9c5d9fb76.gif",
+    "main.js": "/portfolio/static/js/main.350b8420.js",
     "static/media/Champions.gif": "/portfolio/static/media/Champions.b8fb56bee22ee3d3416e.gif",
     "static/media/BadBankImg.jpg": "/portfolio/static/media/BadBankImg.f9d552dc9cbe671f6b68.jpg",
     "static/media/ChestPress.gif": "/portfolio/static/media/ChestPress.7a85e460cecad784653b.gif",
@@ -19,10 +18,10 @@
     "static/media/Bhavika_Patel_Resume_2022.pdf": "/portfolio/static/media/Bhavika_Patel_Resume_2022.7ba06a41b696a697233b.pdf",
     "index.html": "/portfolio/index.html",
     "main.bb8f5a22.css.map": "/portfolio/static/css/main.bb8f5a22.css.map",
-    "main.311a37a5.js.map": "/portfolio/static/js/main.311a37a5.js.map"
+    "main.350b8420.js.map": "/portfolio/static/js/main.350b8420.js.map"
   },
   "entrypoints": [
     "static/css/main.bb8f5a22.css",
-    "static/js/main.311a37a5.js"
+    "static/js/main.350b8420.js"
   ]
 }
