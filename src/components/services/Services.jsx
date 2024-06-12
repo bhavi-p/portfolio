@@ -17,10 +17,6 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Figma</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
               <p>HTML5</p>
             </li>
             <li>
@@ -46,15 +42,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>MongoDB, ExpressJS, React, NodeJS</p>
+              <p>Figma, Bootstrap, Tailwind</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Vue JS, MongoDB, ExpressJS, React, NodeJS</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
               <p>Strapi, Postman, GraphQL</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Figma, Bootstrap, Tailwind</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
